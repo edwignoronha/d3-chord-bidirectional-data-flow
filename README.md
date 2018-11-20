@@ -1,8 +1,8 @@
 # d3-chord-bidirectional-data-flow
 An implementation of the D3 Chord Diagram showing the inter-segment bi-directional flow of data .
 
-Demo Link:
-	https://d3-chord.herokuapp.com/
+Demo Link: 
+https://d3-chord.herokuapp.com/
 
 A **chord diagram** is a graphical method of visualising the weighted and directed relationships across entities. Hence the dataset used for this visualisation can be tabulated. 
 
